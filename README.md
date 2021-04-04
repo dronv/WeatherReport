@@ -1,4 +1,17 @@
+# Overview:
+Created a weather report app using React, Javascript and CSS. The api used is Open weatherstack API(https://weatherstack.com/quickstart).
+To use this API, create an account and get your API key.
+Paste your API key in the App.js file in the query for API call.
+
+# WeatherReport App description:
+Currently this app, shows time of only one place by default. The App is built in such a way that the background color automatically changes for day time and night time. 
+
+# Night Time App Design
 ![ScreenShot 1](https://user-images.githubusercontent.com/41694884/113502151-6d362f80-94f8-11eb-8da1-e92224f489e3.PNG)
+
+# Day Time App Design
+![Screenshot2](https://user-images.githubusercontent.com/41694884/113502178-9656c000-94f8-11eb-802a-a11205406b9e.PNG)
+
 
 # Getting Started with Create React App
 
