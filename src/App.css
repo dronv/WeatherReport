@@ -1,0 +1,72 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing:border-box;
+  font-family:Nunito;
+  text-transform: uppercase;
+  
+}
+ .yes{
+  background-image: linear-gradient(to right,rgb(123, 123, 185),rgb(206, 174, 174));
+}
+.no{
+  text-decoration-color:azure;
+  background-color:#00274e
+}
+
+.weatherInfo{
+  border-width:5px;  
+  border-style:groove;
+  border-radius: 10px;
+}
+.temp{
+  margin-left: 10px;
+}
+.icon{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.location{
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+.region{
+  text-transform: uppercase;
+  margin-left: 10px;
+}
+.country{
+  margin-top: 10px;
+  margin-left: 10px;
+  text-transform: uppercase;
+}
+.feelslike{
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.no{
+  background-color: rgb(0, 14, 90);
+  color: antiquewhite;
+}
+.flex-row-container{
+  display: flex;
+  flex-direction: row;
+ 
+}
+.humidity{
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.cloudcoverage{
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.uvindex{
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.winddirection{
+  margin-top: 30px;
+  margin-left: 30px;
+}
